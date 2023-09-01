@@ -1,5 +1,5 @@
 function isfeasible = FormationFeasible(Vn,Rn)
-%This function is to garantee that the formation is smaller than the original sheet.
+%This function is to guarantee that the formation is smaller than the original sheet.
 %{
     Input Variables:
     Vn (N x 2): the shape of the initial sheet. Vn(i,:) = [x_v,y_v];
