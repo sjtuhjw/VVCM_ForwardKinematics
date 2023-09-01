@@ -1,5 +1,5 @@
 function p = PlotRobot(z_r, ID, Rn, Po)
-%This function is to plot all the Forword Kinematics solutions. The length unit in this function is millimeter (mm).
+%This function is to plot all the Forward Kinematics solutions. The length unit in this function is millimeter (mm).
 %{  
     For an N-robot team, which has M Forword Kinematics Solutions. The
     Input Variables are:
