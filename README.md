@@ -12,7 +12,7 @@ It contains 5 MATLAB files. The length unit in these function is millimeter (mm)
 
 User Instructions: The users should input robot number $N$,  the height of the holding points $z_r$,  vertices of the sheet $\mathcal{V}_N^0$ and positions of the robot team $\mathcal{R}_N$.
 The app will output the all the object position  $\mathbb{P}_o = \[ ^{(1)}{\rm{p}}_o, ..., ^{(M)}{\rm{p}}_o \]$, Contact Point Position  $\mathbb{V}_o = \[^{(1)}\rm{v}_o, ..., ^{(M)}\rm{v}_o\]$., and the Taut Cable Group $\mathbb{I}_k = \{^{(1)}{{I}}_k, ..., ^{(M)}{{I}}_k\}$. Then, plot them in Figure.
-
+The screenshot of the [user interface0](VVCM_FK_APP.png)
 1. Run VVCM.mlapp  in MATLAB APP Designer or you can install the file VVCM_ForwardKinematics.mlappinstall and run it.
 2. Set the robot number ($N$) in the box;
 3. Set the height of the holding points ($z_r$) in the box;
