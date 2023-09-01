@@ -7,7 +7,7 @@ function [Vo,Po,ID,taut_number,ispossible] = VVCM_CQP(zr,Vn,Rn,ID_taut)
 
     Step 2: Form closure condition
 
-    Step 3: Constrainted Quadratic Problem (CQP) solving
+    Step 3: Constrained Quadratic Problem (CQP) solving
 
     Step 4: Force closure condition
 
