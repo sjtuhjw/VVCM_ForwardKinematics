@@ -20,13 +20,13 @@ This is the screenshot of the [user interface](VVCM_FK_APP.png)
 For example, after set the robot number $N=4$, you can copy the following data in the box
    233.871,190.9621;581.7972,126.8222;890.553,494.1691;413.5945,820.6997;
    
-The meaning of the above array is $\mathcal{V}_N^0= [x_{v1},y_{v1};...;x_{v8},y_{v8};]$ . Please follow the above format. The app will read the data you input, and plot it in the app.
+The meaning of the above array is $\mathcal{V}_N^0= [x_{v1},y_{v1};...;x_{v4},y_{v4};]$ . Please follow the above format. The app will read the data you input, and plot it in the app.
 
 6.  Click the yellow button (Robot Vertices Selection) to select the positions of the robot team ($\mathcal{R}_N$), or you can set it by text input.
 For example, after step 4, you can copy the following data in the box
 385.9447,310.4956;565.6682,266.7638;683.1797,453.3528;478.1106,555.3936;
     
-The meaning of the above array is $\mathcal{R}_N = [x_1,y_1;...;x_8,y_8;]$. Please follow the above format. The app will read the data you input, and plot it in the app.
+The meaning of the above array is $\mathcal{R}_N = [x_1,y_1;...;x_4,y_4;]$. Please follow the above format. The app will read the data you input, and plot it in the app.
 
 8. Click the yellow button (Forward Kinematics Calculation) and run the algorithm.
 
