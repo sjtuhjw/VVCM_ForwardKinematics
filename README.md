@@ -1,6 +1,6 @@
 # VVCM_ForwardKinematics
 
-This MatlabApp is designed by MATLAB 2022b. It is the open sorce code of the paper _"Forward Kinematics of Multi-Robot System with a Deformable Sheet"_.
+This MatlabApp is designed by MATLAB 2022b. It is the open sorce code of the paper _"Forward Kinematics of Objective Transport by a Multi-Robot System with Deformable Sheet"_.
 
 It contains 5 MATLAB files. The length unit in these function is millimeter (mm). They are:
 1. VVCM.mlapp      		MATLAB Apps for user interface creation.
@@ -17,7 +17,7 @@ This is the screenshot of the [user interface](VVCM_FK_APP.png)
 2. Set the robot number ($N$) in the box;
 3. Set the height of the holding points ($z_r$) in the box;
 4. Click the yellow button (Sheet Vertices Selection) to select the vertices of the sheet ($\mathcal{V}_N^0$) by clicking the mouse, or you can set it by text input.
-For example, after set the robot number $N=8$, you can copy the following data in the box
+For example, after set the robot number $N=4$, you can copy the following data in the box
    233.871,190.9621;581.7972,126.8222;890.553,494.1691;413.5945,820.6997;
    
 The meaning of the above array is $\mathcal{V}_N^0= [x_{v1},y_{v1};...;x_{v8},y_{v8};]$ . Please follow the above format. The app will read the data you input, and plot it in the app.
