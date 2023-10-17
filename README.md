@@ -1,6 +1,6 @@
 # VVCM_ForwardKinematics
 
-This MatlabApp is designed by MATLAB 2022b. It is the open sorce code of the paper _"Forward Kinematics of Objective Transport by a Multi-Robot System with Deformable Sheet"_.
+This MatlabApp is designed by MATLAB 2022b. It is the open sorce code of the paper _"Forward Kinematics of Object Transport by a Multi-Robot System with Deformable Sheet"_.
 
 It contains 5 MATLAB files. The length unit in these function is millimeter (mm). They are:
 1. VVCM.mlapp      		MATLAB Apps for user interface creation.
